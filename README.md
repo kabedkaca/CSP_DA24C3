@@ -1,12 +1,12 @@
 # CSP_DA24C3
-Work on simple capstone project on Time-Series theme on flood prediction.
+Work on simple capstone project on Time-Series theme on household power consumption prediction.
 
-Dataset: https://www.kaggle.com/datasets/mexwell/united-states-flood-database 
+Dataset: https://www.kaggle.com/code/vedumrajkar/electricity-consumption-time-series-analysis/notebook
 
 1) Understanding project
 
-what is the topic: disaster; flood
-what is the goal: model to predict
+what is the topic: power consumption
+what is the goal: predict power usage in next years to come
 
 2)Understanding the data
 
