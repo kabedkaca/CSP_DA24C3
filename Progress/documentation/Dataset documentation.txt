@@ -1,0 +1,37 @@
+raw data from kaggle
+
+1st data cleaning (2/6/2024)
+
+format date and time,one with normal,and one with specific
+
+then change all features except sub-meter-3 to float, as even in numerical,there are dtype as object
+
+use unique to see,what problem making them dtype as object eventho they are in numerical
+
+use replace method, to replace the unique object to NaN
+
+then all features except time and date are fill with mean
+
+no null
+
+proceed with EDA
+
+but problem arise when to modelling
+
+
+
+2ND data cleaning (5/6/2024)
+
+raw data
+combine date and time,and then format to datetime, drop original date time column,bring to the front
+do the same to all ind features, replace with NaN, fill with mean
+
+use EDA to see correlation
+try to connect
+active_power and intensity has corr = 1,
+drop intensity
+
+set DateTime as index, for time series
+
+
+
