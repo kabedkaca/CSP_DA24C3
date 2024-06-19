@@ -1,9 +1,11 @@
-# CSP_DA24C3
+# CSP_DA24C3 
 Work on simple capstone project on Time-Series theme on household power consumption prediction.
 
 Dataset: https://www.kaggle.com/code/vedumrajkar/electricity-consumption-time-series-analysis/notebook
 
 This dataset contains six months of household electricity consumption data, gathered between January 2007 and June 2007
+
+Dataset information:
 
 Date: The date of the observation. (Date)
 Time: The time of the observation. (Time)
@@ -18,7 +20,12 @@ Sub_metering_1: The active power consumed by the kitchen (kilowatts). (Numeric)
 Sub_metering_2: The active power consumed by the laundry room (kilowatts). (Numeric)
 Sub_metering_3: The active power consumed by the electric water heater and air conditioner (kilowatts). (Numeric)
 
+Notebook order
+1)
+2)
+3)
 
+Stages of project:
 
 1) Understanding project
 
@@ -35,3 +42,11 @@ Dataset would be cleaned,organized and munging so that it fit with the obejctive
 
 My medium post on what i learn from EDA my data:
 https://medium.com/@pillowkuat/what-i-learned-from-exploratory-data-analysis-eda-of-my-dataset-1b8e72262ea1
+
+4)
+5)
+6)
+
+My medium post on my capstone project:
+
+
