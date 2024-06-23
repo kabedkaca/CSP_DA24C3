@@ -21,9 +21,10 @@ Sub_metering_2: The active power consumed by the laundry room (kilowatts). (Nume
 Sub_metering_3: The active power consumed by the electric water heater and air conditioner (kilowatts). (Numeric)
 
 Notebook order
-1)
-2)
-3)
+1)LT Part 2 Problem Statement and Dataset
+2)1_Exploring_Dataset_Power_Consumption
+3)2_ARIMA_modelling
+4)3_SARIMAX_modelling
 
 Stages of project:
 
@@ -43,10 +44,18 @@ Dataset would be cleaned,organized and munging so that it fit with the obejctive
 My medium post on what i learn from EDA my data:
 https://medium.com/@pillowkuat/what-i-learned-from-exploratory-data-analysis-eda-of-my-dataset-1b8e72262ea1
 
-4)
-5)
-6)
+4)Data modelling
 
-My medium post on my capstone project:
+As the dataset has been cleaned and formatted to be appropriate for modelling, we will proceed with time-series analysis using ARIMA and SARIMAX on the dataset.
+
+5)Model Evaluation
+
+As the dataset is trained and forecasting prediction on the test set, we will evaluate the model based on the error.
+
+6)Deployment
+
+The model will be deployed by reporting and presenting to the stakeholders.
+
+My medium post on my capstone project: https://medium.com/@pillowkuat/predicting-household-power-consumption-with-time-series-analysis-an-arima-model-tutorial-5d7f83b71e88
 
 
