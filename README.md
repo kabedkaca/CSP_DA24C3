@@ -21,10 +21,10 @@ Sub_metering_2: The active power consumed by the laundry room (kilowatts). (Nume
 Sub_metering_3: The active power consumed by the electric water heater and air conditioner (kilowatts). (Numeric)
 
 Notebook order
-1)LT Part 2 Problem Statement and Dataset
-2)1_Exploring_Dataset_Power_Consumption
-3)2_ARIMA_modelling
-4)3_SARIMAX_modelling
+1)1_LT Part 2 Problem Statement and Dataset
+2)2_Exploring_Dataset_Power_Consumption
+3)3_ARIMA_modelling
+4)4_SARIMAX_modelling
 
 Stages of project:
 
@@ -39,10 +39,10 @@ Load the data, the info and the points for each features in the data
 
 3)Data preparation
 
-Dataset would be cleaned,organized and munging so that it fit with the obejctive and analysis
+Dataset would be cleaned, organized and munging so that it suitable with the obejctive and analysis.
 
 My medium post on what i learn from EDA my data:
-https://medium.com/@pillowkuat/what-i-learned-from-exploratory-data-analysis-eda-of-my-dataset-1b8e72262ea1
+https://medium.com/@pillowkuat/what-i-learned-from-exploratory-data-analysis-eda-of-my-dataset-for-time-series-analysis-on-a6680be956da
 
 4)Data modelling
 
@@ -54,8 +54,8 @@ As the dataset is trained and forecasting prediction on the test set, we will ev
 
 6)Deployment
 
-The model will be deployed by reporting and presenting to the stakeholders.
+The model will be deployed by presenting and demonstrating to the stakeholders.
 
-My medium post on my capstone project: https://medium.com/@pillowkuat/predicting-household-power-consumption-with-time-series-analysis-an-arima-model-tutorial-5d7f83b71e88
+My medium post on my capstone project: https://medium.com/@pillowkuat/predicting-household-power-consumption-using-arima-and-sarima-models-a-crisp-dm-approach-e1a25e20e983
 
 
