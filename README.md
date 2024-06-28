@@ -28,7 +28,8 @@ Time: The time of the observation. (Time)
 
 -----------------------------
 
-Notebook order
+Notebook order:
+
 1)1_LT Part 2 Problem Statement and Dataset
 
 2)2_Exploring_Dataset_Power_Consumption
@@ -42,6 +43,7 @@ Notebook order
 Stages of project:
 
 1) Understanding project
+
 
 what is the topic: power consumption  
                      
