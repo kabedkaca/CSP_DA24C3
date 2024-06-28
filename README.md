@@ -11,16 +11,21 @@ Date: The date of the observation. (Date)
 Time: The time of the observation. (Time)
 
 Global_active_power: The total active power consumed by the household (kilowatts). (Numeric)
+
 Global_reactive_power: The total reactive power consumed by the household (kilowatts). (Numeric)
 
 Voltage: The voltage at which the electricity is delivered to the household (volts). (Numeric)
+
 Global_intensity: The average current intensity delivered to the household (amps). (Numeric)
 
 Sub_metering_1: The active power consumed by the kitchen (kilowatts). (Numeric)
+
 Sub_metering_2: The active power consumed by the laundry room (kilowatts). (Numeric)
+
 Sub_metering_3: The active power consumed by the electric water heater and air conditioner (kilowatts). (Numeric)
 
-Notebook order
+Notebook order:
+
 1)1_LT Part 2 Problem Statement and Dataset
 2)2_Exploring_Dataset_Power_Consumption
 3)3_ARIMA_modelling
@@ -31,6 +36,7 @@ Stages of project:
 1) Understanding project
 
 what is the topic: power consumption
+
 what is the goal: predict power usage in next years to come
 
 2)Understanding the data
